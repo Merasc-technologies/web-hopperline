@@ -1,0 +1,196 @@
+{
+  "Metadata": {
+    "title": "HopperLine — AI Receptionist for WhatsApp and Instagram",
+    "description": "HopperLine turns your WhatsApp and Instagram messages into booked appointments with an AI receptionist. Built for salons, clinics, and local service businesses."
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "About",
+    "research": "Research",
+    "pricing": "Pricing",
+    "login": "Log in",
+    "getStarted": "Start Free"
+  },
+  "Home": {
+    "metaTitle": "HopperLine — AI Receptionist for WhatsApp and Instagram",
+    "eyebrow": "For salons, hair studios, and clinics",
+    "headlineLine1": "Every WhatsApp and Instagram message",
+    "headlineLine2": "becomes a line in your appointment book.",
+    "subheadline": "HopperLine reads your customers' messages, answers pricing and availability questions, and books the appointment for you — while you focus on the client in the chair.",
+    "ctaPrimary": "Start Free Trial",
+    "ctaSecondary": "See how it works",
+    "chat": {
+      "customerLabel": "Customer",
+      "customerMsg": "Hi, do you have anything open tomorrow for a color?",
+      "aiLabel": "HopperLine",
+      "aiMsg": "Hi! Tomorrow at 2:00 PM is open — shall I book you with Ayşe?"
+    },
+    "ticket": {
+      "kicker": "APPOINTMENT",
+      "service": "Hair Color",
+      "stylistLabel": "Stylist",
+      "stylist": "Ayşe",
+      "dateLabel": "Date",
+      "date": "Tomorrow",
+      "timeLabel": "Time",
+      "time": "2:00 PM",
+      "status": "Confirmed"
+    },
+    "problem": {
+      "eyebrow": "Why HopperLine",
+      "title": "The problem is simple: messages go unanswered.",
+      "items": [
+        {
+          "title": "Messages after closing",
+          "body": "Messages that arrive after you close wait until morning — sometimes longer."
+        },
+        {
+          "title": "The same questions, all day",
+          "body": "Answering the same pricing and availability questions one by one takes real time."
+        },
+        {
+          "title": "Double-booked appointments",
+          "body": "Conflicts in a manually kept calendar cost you your customers' trust."
+        }
+      ]
+    },
+    "howItWorks": {
+      "eyebrow": "How it works",
+      "title": "From a message to a booking",
+      "subtitle": "Four steps, all automatic.",
+      "steps": [
+        {
+          "title": "A customer writes in",
+          "body": "They message you on WhatsApp or Instagram."
+        },
+        {
+          "title": "HopperLine reads it",
+          "body": "It reads the message and answers service and pricing questions."
+        },
+        {
+          "title": "It checks real availability",
+          "body": "No guessing — it looks at your actual calendar to find an open slot."
+        },
+        {
+          "title": "It books the appointment",
+          "body": "The booking lands in your dashboard — take over the conversation any time."
+        }
+      ]
+    },
+    "audience": {
+      "eyebrow": "Who it's for",
+      "title": "Built for every appointment-based business",
+      "items": [
+        "Hair Salons",
+        "Beauty Salons",
+        "Nail Studios",
+        "Aesthetic Centers",
+        "Dental Clinics"
+      ]
+    },
+    "gap": {
+      "eyebrow": "Why now",
+      "title": "No one else puts this together",
+      "body": "Most tools today either watch WhatsApp only, or require an enterprise sales call. Nothing combines WhatsApp, Instagram, and real-time appointment management in one dashboard you can set up yourself."
+    },
+    "pricingTeaser": {
+      "eyebrow": "Pricing",
+      "title": "Simple pricing that grows with you",
+      "subtitle": "See the full plan comparison on the pricing page.",
+      "tiers": [
+        { "name": "Starter", "blurb": "WhatsApp AI, booking, CRM" },
+        { "name": "Growth", "blurb": "+ Instagram AI, campaigns, analytics" },
+        { "name": "Enterprise", "blurb": "Multiple locations" }
+      ],
+      "cta": "See all plans"
+    },
+    "finalCta": {
+      "title": "Don't let the next message wait.",
+      "subtitle": "Try it free for 14 days, no card required.",
+      "cta": "Start Free Trial"
+    }
+  },
+  "About": {
+    "metaTitle": "About · HopperLine",
+    "eyebrow": "About",
+    "title": "A small team digitizing the appointment book",
+    "intro": "HopperLine exists so that hair salons, beauty salons, and clinics in Turkey don't have to answer every WhatsApp and Instagram message by hand. We're a small, focused team right now — not a large company, but a group that saw this problem firsthand and set out to fix it.",
+    "originTitle": "Where the name comes from",
+    "originBody": "HopperLine comes from two things: Grace Hopper, one of computer science's pioneers, and \"front line\" — the first point of contact. Whoever takes the booking is usually a business's first impression. HopperLine exists to make sure that impression is never missed.",
+    "visionTitle": "Our long-term direction",
+    "visionBody": "We want to become an operating system for appointment-based businesses — messaging, bookings, customer management, campaigns, and analytics in one dashboard. The Shopify for beauty salons. That's a direction, not a claim about our size today.",
+    "whyNowTitle": "Why now",
+    "whyNowBody": "WhatsApp and Instagram are now where most booking requests arrive. But the tools built to manage those messages either watch a single platform or require an enterprise sales process. HopperLine fills the self-serve gap in between."
+  },
+  "Research": {
+    "metaTitle": "Research · HopperLine",
+    "eyebrow": "Research",
+    "title": "Why an AI receptionist is needed",
+    "intro": "This page summarizes the market observations we made before and while building HopperLine. It isn't a formal academic study — it's drawn from conversations with salon, hair studio, and clinic owners, plus a review of competing tools.",
+    "tableTitle": "The competitive landscape",
+    "tableNote": "As of August 2026, based on publicly available information. This space moves quickly.",
+    "table": {
+      "headers": ["", "WhatsApp", "Instagram", "AI booking", "Self-serve"],
+      "rows": [
+        { "name": "HopperLine", "whatsapp": true, "instagram": true, "ai": true, "selfServe": true },
+        { "name": "Wabo", "whatsapp": true, "instagram": false, "ai": false, "selfServe": true },
+        { "name": "Mesaj Asistan", "whatsapp": true, "instagram": false, "ai": false, "selfServe": true },
+        { "name": "Palmate", "whatsapp": true, "instagram": true, "ai": true, "selfServe": false },
+        { "name": "Klinix", "whatsapp": true, "instagram": false, "ai": false, "selfServe": false },
+        { "name": "Turan AI", "whatsapp": true, "instagram": true, "ai": true, "selfServe": false }
+      ]
+    },
+    "gapTitle": "Where the gap is",
+    "gapBody": "Tools that watch WhatsApp are usually single-channel and stop at template messages rather than real automation. Tools that also cover Instagram and use real AI tend to require an enterprise sales process or get sold as an agency project. We couldn't find one tool that combines WhatsApp, Instagram, and real-time appointment management in a single dashboard you can set up yourself.",
+    "meaningTitle": "What this means for a salon owner",
+    "meaningBody": "You don't need to switch between a separate WhatsApp tool, a separate Instagram solution, and a separate appointment calendar. Wherever the message comes from, the same AI reads it and books it onto the same calendar."
+  },
+  "Pricing": {
+    "metaTitle": "Pricing · HopperLine",
+    "eyebrow": "Pricing",
+    "title": "Simple pricing that grows with you",
+    "subtitle": "Try it free for 14 days, no card required. The prices below are indicative and may change before general launch.",
+    "disclaimer": "Prices are in Turkish lira, exclude tax, and are not final — contact us for current pricing.",
+    "monthly": "/mo",
+    "cta": "Start Free Trial",
+    "popularBadge": "Most popular",
+    "tiers": [
+      {
+        "name": "Starter",
+        "price": "1,499",
+        "blurb": "To get started on one channel",
+        "features": ["WhatsApp AI receptionist", "Appointment and calendar management", "Basic CRM", "Email support"]
+      },
+      {
+        "name": "Growth",
+        "price": "3,499",
+        "blurb": "To manage WhatsApp and Instagram together",
+        "highlighted": true,
+        "features": ["Everything in Starter", "Instagram AI receptionist", "Campaigns and reminders", "Analytics dashboard"]
+      },
+      {
+        "name": "Enterprise",
+        "price": "6,999+",
+        "blurb": "For multiple locations",
+        "features": ["Everything in Growth", "Multi-location management", "Priority support", "Guided setup"]
+      }
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      { "q": "Do I need a card for the free trial?", "a": "No. We don't ask for card details during the 14-day trial." },
+      { "q": "Can I cancel any time?", "a": "Yes, you can cancel your subscription from the dashboard whenever you like." },
+      { "q": "Why are the prices marked as \"indicative\"?", "a": "HopperLine is still preparing for general launch; these prices come from our early conversations and will be finalized before launch." }
+    ]
+  },
+  "Footer": {
+    "tagline": "The AI receptionist that turns WhatsApp and Instagram messages into structured CRM, conversation, and appointment workflows.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "contact": "Contact",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "dataDeletion": "Data Deletion",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "Metadata": {
+    "title": "HopperLine — WhatsApp ve Instagram için AI Resepsiyonist",
+    "description": "HopperLine, WhatsApp ve Instagram mesajlarınızı yapay zeka destekli bir resepsiyonistle randevuya dönüştürür. Kuaförler, güzellik salonları ve klinikler için."
+  },
+  "Nav": {
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "research": "Araştırma",
+    "pricing": "Fiyatlandırma",
+    "login": "Giriş Yap",
+    "getStarted": "Ücretsiz Başla"
+  },
+  "Home": {
+    "metaTitle": "HopperLine — WhatsApp ve Instagram için AI Resepsiyonist",
+    "eyebrow": "Kuaförler, güzellik salonları ve klinikler için",
+    "headlineLine1": "WhatsApp ve Instagram’a gelen her mesaj,",
+    "headlineLine2": "randevu defterine düşsün.",
+    "subheadline": "HopperLine müşterilerinizin mesajlarını okur, fiyat ve müsaitlik sorularını yanıtlar, randevuyu sizin yerinize oluşturur — siz koltuktaki müşteriyle ilgilenirken.",
+    "ctaPrimary": "Ücretsiz Dene",
+    "ctaSecondary": "Nasıl çalışır",
+    "chat": {
+      "customerLabel": "Müşteri",
+      "customerMsg": "Merhaba, yarın saç boyası için yer var mı?",
+      "aiLabel": "HopperLine",
+      "aiMsg": "Merhaba! Yarın 14:00 uygun, sizi Ayşe Hanım’a alalım mı?"
+    },
+    "ticket": {
+      "kicker": "RANDEVU",
+      "service": "Saç Boyama",
+      "stylistLabel": "Uzman",
+      "stylist": "Ayşe Hanım",
+      "dateLabel": "Tarih",
+      "date": "Yarın",
+      "timeLabel": "Saat",
+      "time": "14:00",
+      "status": "Onaylandı"
+    },
+    "problem": {
+      "eyebrow": "Neden HopperLine",
+      "title": "Sorun basit: mesajlar cevapsız kalıyor.",
+      "items": [
+        {
+          "title": "Kapalıyken gelen mesajlar",
+          "body": "Salon kapandıktan sonra gelen mesajlar sabaha, bazen daha uzun süre cevapsız kalıyor."
+        },
+        {
+          "title": "Tekrar eden sorular",
+          "body": "Aynı fiyat ve müsaitlik sorularına gün boyu tek tek cevap yazmak zaman alıyor."
+        },
+        {
+          "title": "Çakışan randevular",
+          "body": "Elle tutulan bir takvimde çakışan randevular müşteri güvenini zedeliyor."
+        }
+      ]
+    },
+    "howItWorks": {
+      "eyebrow": "Nasıl çalışır",
+      "title": "Bir mesajdan randevuya",
+      "subtitle": "Dört adım, hepsi otomatik.",
+      "steps": [
+        {
+          "title": "Müşteri yazar",
+          "body": "Müşteri WhatsApp ya da Instagram’dan mesaj gönderir."
+        },
+        {
+          "title": "HopperLine okur",
+          "body": "Mesajı okur, hizmet ve fiyat sorularını yanıtlar."
+        },
+        {
+          "title": "Müsaitliği kontrol eder",
+          "body": "Tahmin etmez — gerçek takviminize bakar ve uygun saati bulur."
+        },
+        {
+          "title": "Randevuyu oluşturur",
+          "body": "Randevu panelinize düşer, isterseniz konuşmayı siz devralırsınız."
+        }
+      ]
+    },
+    "audience": {
+      "eyebrow": "Kimler için",
+      "title": "Randevuyla çalışan her işletme için",
+      "items": [
+        "Kuaförler",
+        "Güzellik Salonları",
+        "Tırnak Stüdyoları",
+        "Estetik Merkezleri",
+        "Diş Klinikleri"
+      ]
+    },
+    "gap": {
+      "eyebrow": "Neden şimdi",
+      "title": "Kimse bunu birlikte yapmıyor",
+      "body": "Bugün piyasada ya sadece WhatsApp’a bakan araçlar var, ya da kurumsal teklif almanız gereken sistemler. WhatsApp’ı, Instagram’ı ve gerçek zamanlı randevu yönetimini tek panelde, kendi kendinize kurabileceğiniz bir sistemde birleştiren bir araç yok."
+    },
+    "pricingTeaser": {
+      "eyebrow": "Fiyatlandırma",
+      "title": "Büyüdükçe büyüyen, basit bir fiyatlandırma",
+      "subtitle": "Ayrıntılı plan karşılaştırması fiyatlandırma sayfasında.",
+      "tiers": [
+        { "name": "Başlangıç", "blurb": "WhatsApp AI, randevu, CRM" },
+        { "name": "Büyüme", "blurb": "+ Instagram AI, kampanyalar, analiz" },
+        { "name": "Kurumsal", "blurb": "Çoklu lokasyon" }
+      ],
+      "cta": "Tüm planları gör"
+    },
+    "finalCta": {
+      "title": "İlk mesajınızı bekleten randevu olmasın.",
+      "subtitle": "14 gün ücretsiz deneyin, kart bilgisi gerekmez.",
+      "cta": "Ücretsiz Dene"
+    }
+  },
+  "About": {
+    "metaTitle": "Hakkımızda · HopperLine",
+    "eyebrow": "Hakkımızda",
+    "title": "Randevu defterini dijitalleştiren küçük bir ekip",
+    "intro": "HopperLine, Türkiye’deki kuaförlerin, güzellik salonlarının ve kliniklerin WhatsApp ve Instagram’dan gelen mesajları tek tek elle yanıtlamak zorunda kalmaması için kuruldu. Şu an küçük, odaklı bir ekibiz — büyük bir kurum değil, bu problemi ilk elden gören ve çözmeye çalışan bir grup.",
+    "originTitle": "İsmin hikayesi",
+    "originBody": "HopperLine ismi iki şeyden geliyor: bilgisayar biliminin öncülerinden Grace Hopper, ve “ilk temas noktası” anlamına gelen “front line”. Randevu alan kişi genelde bir işletmenin ilk izlenimidir — HopperLine bu izlenimi hiç kaçırmamanızı sağlamak için var.",
+    "visionTitle": "Uzun vadeli hedefimiz",
+    "visionBody": "Randevuyla çalışan işletmeler için mesajlaşma, randevu, müşteri yönetimi, kampanya ve analizin tek bir panelde birleştiği bir işletim sistemi olmak istiyoruz — güzellik salonları için bir Shopify. Bu bir hedef; bugünün büyüklüğüne dair bir iddia değil.",
+    "whyNowTitle": "Neden şimdi",
+    "whyNowBody": "WhatsApp ve Instagram artık çoğu randevu talebinin geldiği yer. Ama bu mesajları yönetmek için kurulan araçlar ya tek platforma bakıyor ya da kurumsal bir satış süreci gerektiriyor. HopperLine, bu ikisinin arasında kalan ve kendi kendinize kurabileceğiniz boşluğu dolduruyor."
+  },
+  "Research": {
+    "metaTitle": "Araştırma · HopperLine",
+    "eyebrow": "Araştırma",
+    "title": "Neden bir AI resepsiyoniste ihtiyaç var",
+    "intro": "Bu sayfa, HopperLine’ı kurmadan önce ve kurarken yaptığımız pazar gözlemlerini özetliyor. Resmi bir akademik araştırma değil — kuaför, salon ve klinik sahipleriyle yaptığımız görüşmelerden ve rakip incelemesinden derlendi.",
+    "tableTitle": "Rakip manzarası",
+    "tableNote": "Ağustos 2026 itibarıyla, kamuya açık bilgilere dayanır. Bu alan hızlı değişiyor.",
+    "table": {
+      "headers": ["", "WhatsApp", "Instagram", "AI ile randevu", "Kendi kendine kurulum"],
+      "rows": [
+        { "name": "HopperLine", "whatsapp": true, "instagram": true, "ai": true, "selfServe": true },
+        { "name": "Wabo", "whatsapp": true, "instagram": false, "ai": false, "selfServe": true },
+        { "name": "Mesaj Asistan", "whatsapp": true, "instagram": false, "ai": false, "selfServe": true },
+        { "name": "Palmate", "whatsapp": true, "instagram": true, "ai": true, "selfServe": false },
+        { "name": "Klinix", "whatsapp": true, "instagram": false, "ai": false, "selfServe": false },
+        { "name": "Turan AI", "whatsapp": true, "instagram": true, "ai": true, "selfServe": false }
+      ]
+    },
+    "gapTitle": "Boşluk nerede",
+    "gapBody": "WhatsApp’a bakan araçlar genelde tek kanallı ve otomasyon değil, şablon mesaj seviyesinde kalıyor. Instagram’ı da kapsayan ve gerçek yapay zeka kullanan araçlar ise ya kurumsal teklif süreci istiyor ya da bir ajans üzerinden proje olarak satılıyor. WhatsApp’ı, Instagram’ı ve gerçek zamanlı randevu yönetimini, kendi başınıza kurabileceğiniz tek bir panelde birleştiren bir araç bulamadık.",
+    "meaningTitle": "Bunun bir salon sahibi için anlamı",
+    "meaningBody": "Ayrı bir WhatsApp aracı, ayrı bir Instagram çözümü ve ayrı bir randevu takvimi arasında geçiş yapmanıza gerek kalmıyor. Mesaj nereden gelirse gelsin, aynı yapay zeka okuyor ve aynı takvime randevu düşürüyor."
+  },
+  "Pricing": {
+    "metaTitle": "Fiyatlandırma · HopperLine",
+    "eyebrow": "Fiyatlandırma",
+    "title": "Büyüdükçe büyüyen, basit bir fiyatlandırma",
+    "subtitle": "14 gün ücretsiz deneyin, kart bilgisi gerekmez. Aşağıdaki fiyatlar öngörüdür ve lansmana kadar değişebilir.",
+    "disclaimer": "Fiyatlar TL cinsindendir, KDV hariçtir ve nihai değildir — güncel fiyat için bizimle iletişime geçebilirsiniz.",
+    "monthly": "/ay",
+    "cta": "Ücretsiz Dene",
+    "popularBadge": "En çok tercih edilen",
+    "tiers": [
+      {
+        "name": "Başlangıç",
+        "price": "1.499",
+        "blurb": "Tek platformda başlamak için",
+        "features": ["WhatsApp AI resepsiyonist", "Randevu ve takvim yönetimi", "Temel CRM", "E-posta desteği"]
+      },
+      {
+        "name": "Büyüme",
+        "price": "3.499",
+        "blurb": "WhatsApp ve Instagram’ı birlikte yönetmek için",
+        "highlighted": true,
+        "features": ["Başlangıç’taki her şey", "Instagram AI resepsiyonist", "Kampanyalar ve hatırlatmalar", "Analiz paneli"]
+      },
+      {
+        "name": "Kurumsal",
+        "price": "6.999+",
+        "blurb": "Birden fazla şube için",
+        "features": ["Büyüme’deki her şey", "Çoklu lokasyon yönetimi", "Öncelikli destek", "Özel kurulum yardımı"]
+      }
+    ],
+    "faqTitle": "Sık sorulan sorular",
+    "faq": [
+      { "q": "Ücretsiz deneme için kart bilgisi gerekiyor mu?", "a": "Hayır. 14 günlük deneme süresi boyunca kart bilgisi istemiyoruz." },
+      { "q": "İstediğim zaman iptal edebilir miyim?", "a": "Evet, aboneliğinizi panelden istediğiniz zaman iptal edebilirsiniz." },
+      { "q": "Fiyatlar neden 'öngörü' olarak işaretli?", "a": "HopperLine henüz genel lansmana hazırlanıyor; bu fiyatlar ilk görüşmelerimizden derlendi ve lansmana kadar netleşecek." }
+    ]
+  },
+  "Footer": {
+    "tagline": "WhatsApp ve Instagram mesajlarını yapılandırılmış CRM, konuşma ve randevu akışlarına dönüştüren AI resepsiyonist.",
+    "product": "Ürün",
+    "company": "Şirket",
+    "legal": "Yasal",
+    "contact": "İletişim",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfService": "Kullanım Şartları",
+    "dataDeletion": "Veri Silme",
+    "rights": "Tüm hakları saklıdır."
+  }
+}
