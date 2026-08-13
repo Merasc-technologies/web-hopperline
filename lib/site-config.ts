@@ -5,8 +5,8 @@ export const siteConfig = {
   appUrl: APP_URL,
   loginUrl: `${APP_URL}/login`,
   registerUrl: `${APP_URL}/register`,
-  contactEmail: "merhaba@hopperline.com",
-  privacyEmail: "privacy@hopperline.com",
+  contactEmail: "info@hopperline.com",
+  privacyEmail: "info@hopperline.com",
 };
 
 export const navLinks = [
